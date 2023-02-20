@@ -1,1 +1,1 @@
-Other Refactoring Techniques
+refactoring - simplifying conditional expressions
